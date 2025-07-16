@@ -3,7 +3,7 @@
 
 # Credit Scorecard Development Framework
 
-A comprehensive implementation of credit risk modeling that combines traditional scorecarding techniques with modern machine learning approaches. This project demonstrates the complete development lifecycle of a production-ready credit scoring system, addressing both statistical rigor and regulatory compliance requirements in the financial services industry.
+An implementation of credit risk modeling that combines traditional scorecarding techniques with modern machine learning approaches. This project demonstrates the complete development lifecycle of a production-ready credit scoring system, addressing both statistical rigor and regulatory compliance requirements in the financial services industry.
 
 ## Project Overview
 
